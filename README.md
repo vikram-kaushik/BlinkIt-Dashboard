@@ -3,8 +3,9 @@
 An interactive Power BI dashboard analyzing sales, ratings, and outlet performance for **Blinkit — India's Last Minute App**, built to help stakeholders understand how sales and item visibility vary across outlet size, location tier, item type, and fat content category.
 
 ## 🔗 Live Preview
-![Blinkit Dashboard](screenshot.png)
-*(Add your dashboard screenshot to the repo and update the path above)*
+
+<img width="800" height="457" alt="ScreenRecording2026-07-17073541-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/bc8fda32-8b07-4efc-b86a-00add5d06761" />
+
 
 ## 📌 Project Overview
 This dashboard consolidates outlet-level sales data into a single interactive report, letting users slice performance by **Outlet Size**, **Outlet Location (Tier)**, and **Item Type**. It answers questions like:
